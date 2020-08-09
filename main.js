@@ -3,7 +3,6 @@ FullCalendar v5.2.0
 Docs & License: https://fullcalendar.io/
 (c) 2020 Adam Shaw
 */
-import './main.css';
 
 import { __assign, __spreadArrays, __extends } from 'tslib';
 import { createContext, Component, createRef, createElement, Fragment } from './vdom';
